@@ -1,5 +1,5 @@
 
-![loog readme](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/09/lenguajes-programacion.jpg)
+![loog readme](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/09/lenguajes-programacion.jpg)
 ## HI 👋 
 I’m Enyel Feliz Mercado
 
