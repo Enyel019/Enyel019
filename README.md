@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Connect with me:
-[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:el_dominic01Chotmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:el_dominic01@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enyel-feliz-mercado-a3742653/)
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=5865F2)
 
