@@ -47,3 +47,14 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Github Stats  
+<table><tr><td valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Enyel019&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+</td><td valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enyel019&hide_border=true&layout=compact" align="center" style="width: 76%" />
+</td></tr></table>  
+ <br>
+
+ ## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
