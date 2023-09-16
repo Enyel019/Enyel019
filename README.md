@@ -4,9 +4,7 @@
 <h1 align="center"> Software Engineer</h1>
 
 
-- 👀 I’m interested in .Standing out in the programming industry
-- 🌱 I’m currently learning .I'm part of COHORT 18 from Holberton School Puerto Rico.
-- 💞️ I’m looking to collaborate on .To continue learning
+"I aim to stand out in the programming industry, currently undergoing training as a proud member of COHORT 18 at Holberton School Puerto Rico, and I'm eager to collaborate on projects that allow me to continue learning."
   
 <!---
 Enyel019/Enyel019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
